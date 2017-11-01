@@ -1,2 +1,3 @@
 cmd/upspinserver-openstack/upspinserver-openstack
+cmd/upspin-setupstorage-openstack/upspin-setupstorage-openstack
 vendor/
